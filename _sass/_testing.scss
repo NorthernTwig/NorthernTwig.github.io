@@ -1,0 +1,36 @@
+.site-stuff {
+    width: 100%;
+    height: auto;
+    padding: 50px 0;
+}
+
+.portraitContainer {
+    width: 50%;
+    height: auto;
+    float: left;
+}
+
+.portrait {
+    width: 150px;
+    height: 150px;
+    background-image: url('../img/selfie.jpg');
+    background-size: 100% auto;
+    background-position: 50% 10%;
+    margin: 0 auto;
+    border-radius: 90px;
+}
+
+.textSquare {
+    width: 75%;
+    padding: 15px;
+    margin: 0 auto;
+    margin-top: 10px;
+    height: auto;
+    border-radius: 2px;
+    background-color: $grey-color-light;
+}
+
+.textSquare h1 {
+    text-align: center;
+    font-weight: bold;
+}
