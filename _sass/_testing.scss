@@ -1,23 +1,16 @@
 .site-stuff {
     width: 100%;
     height: auto;
-    padding: 50px 0;
-}
-
-.portraitContainer {
-    width: 50%;
-    height: auto;
-    float: left;
+    padding: 0px 0;
 }
 
 .portrait {
-    width: 150px;
-    height: 150px;
-    background-image: url('../img/selfie.jpg');
-    background-size: 100% auto;
-    background-position: 50% 10%;
+    height: 225px;
+    width: 225px;
     margin: 0 auto;
-    border-radius: 90px;
+    background-image: url('../img/portrait.png');
+    background-size: 100% 100%;
+    margin-bottom: 10px;
 }
 
 .textSquare {
@@ -33,4 +26,30 @@
 .textSquare h1 {
     text-align: center;
     font-weight: bold;
+}
+
+.pcScreen {
+    height: 225px;
+    width: 225px;
+    margin: 0 auto;
+    background-image: url('../img/pcScreen.png');
+    background-size: 100% 100%;
+    margin-bottom: 10px;
+}
+
+.textContainer {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.textContainer h1 {
+    text-align: center;
+}
+
+.bigBlue {
+    width: 100%;
+    height: 125px;
+    background-image: url('../img/bannertwo.png');
+    background-position: 50% 50%;
+    background-size: 100% auto;
 }

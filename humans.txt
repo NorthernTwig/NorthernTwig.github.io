@@ -1,0 +1,10 @@
+/* TEAM */
+	The all-in-one:Oscar Nordquist
+	Contact: oscar.cv.nordquist [at] gmail.com
+	From:Jönköping, Sweden
+
+/* SITE */
+	Last update:11/10/2015
+	Language: English
+	Doctype:HTML5
+	IDE: Sublime Text 2, Photoshop, Jekyll

@@ -92,13 +92,15 @@ a {
     color: $brand-color;
     text-decoration: none;
 
-    &:after {
-        content: " /";
-        opacity: 0;
-        transition: all 0.1s;
-        position: relative;
-        bottom: 2px;
-    }
+        &:after {
+            content: " /";
+            opacity: 0;
+            transition: all 0.1s;
+            position: relative;
+            bottom: 2px;
+            color: orange;
+            color: $grey-color-dark;
+        }
 
     &:before {
         content: "/ ";
@@ -106,6 +108,7 @@ a {
         transition: all 0.1s;
         position: relative;
         bottom: 2px;
+        color: $grey-color-dark;
     }
 
     &:visited {
