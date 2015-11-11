@@ -4,7 +4,7 @@
 	From:Jönköping, Sweden
 
 /* SITE */
-	Last update:11/10/2015
+	Last update:11/11/2015
 	Language: English
 	Doctype:HTML5
 	IDE: Sublime Text 2, Photoshop, Jekyll
