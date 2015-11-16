@@ -3,6 +3,14 @@
 	Contact: oscar.cv.nordquist [at] gmail.com
 	From:Jönköping, Sweden
 
+	Script Wizard:Axel Karlsson
+	Contact: shoulderkarlsson [at] gmail.com
+	From:Lidköping, Sweden
+
+	Support:Axel Karlsson
+	Contact: shoulderkarlsson [at] gmail.com
+	From:Lidköping, Sweden
+
 /* SITE */
 	Last update:11/11/2015
 	Language: English
