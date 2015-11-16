@@ -48,9 +48,22 @@
 
 #bigBlue {
     width: 100%;
-    height: 125px;
-    background-image: url('../img/bannertwo.png');
+    height: 125px; 
+    //url('../img/bannertwo.png');
     background-position: 50% 50%;
     background-size: 100% auto;
+    transition: all 1s;
+}
+
+.greenIng {
+    background-color: green;
+}
+
+.redIng {
+    background-color: red;
+}
+
+.oraIng {
+    background-color: orange;
 }
 

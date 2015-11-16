@@ -1,10 +1,11 @@
 function randomImage() {
-  var i = Math.floor(Math.random() * 3);
+  var i = 0;
 
   setInterval(function() {
     i++;
-    var find = document.querySelector(".bigBlue");
+    var find = document.querySelector("#bigBlue");
     console.log(i);
+
     if (i === 1) {
       find.classList.add("redIng");
     } else if (i === 2) {
@@ -18,3 +19,5 @@ function randomImage() {
 }
 
 randomImage();
+
+
