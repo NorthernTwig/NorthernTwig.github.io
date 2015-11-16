@@ -1,7 +1,20 @@
-"use strict";
+function randomImage() {
+  var i = Math.floor(Math.random() * 3);
 
-function changeImage() {
-	var findImage = Document.getElementById("bigBlue");
-	console.log(findImage);
-	console.log("fuck off");
+  setInterval(function() {
+    i++;
+    var find = document.querySelector(".bigBlue");
+    console.log(i);
+    if (i === 1) {
+      find.classList.add("redIng");
+    } else if (i === 2) {
+      find.classList.remove("redIng");
+      find.classList.add("oraIng");
+    } else {
+      find.classList.remove("oraIng");
+      i = 0;
+    }
+  }, 5500);
 }
+
+randomImage();
