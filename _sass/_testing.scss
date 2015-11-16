@@ -8,7 +8,7 @@
     height: 225px;
     width: 225px;
     margin: 0 auto;
-    background-image: url('../img/portrait.png');
+    background-image: url('/img/portrait.png');
     background-size: 100% 100%;
     margin-bottom: 10px;
 }
@@ -32,7 +32,7 @@
     height: 225px;
     width: 225px;
     margin: 0 auto;
-    background-image: url('../img/pcScreen.png');
+    background-image: url('/img/pcScreen.png');
     background-size: 100% 100%;
     margin-bottom: 10px;
 }
@@ -56,14 +56,13 @@
 }
 
 .greenIng {
-    background-image: url('../img/bannertwo.png');
+    background-image: url('/img/bannertwo.png');
 }
 
 .redIng {
-    background-image: url('../img/olddiner.png');
+    background-image: url('/img/olddiner.png');
 }
 
 .oraIng {
-    background-image: url('../img/feint.jpg');
+    background-image: url('/img/feint.png');
 }
-
