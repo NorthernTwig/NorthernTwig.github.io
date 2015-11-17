@@ -28,7 +28,7 @@ Pros:
 
 Cons:
 
- Takes longer time to get running, than the use of normal CSS.
+ Takes longer time to get running, than if you would use normal CSS.
 
 
 #What do you think of static site generators?
@@ -88,4 +88,4 @@ When I implemented it on my site, I first had to register to their website - the
 
 ##What is Open Graph and how do you make use of it?
 
-Open graph checks the content of a website and makes it a lot easier to share on, for example, 'facebook' and 'twitter'.
+Open graph checks the content of a website and makes it a lot easier to share on, for example, 'facebook' and 'twitter'. When the page get linked - the reciever is presented with the tags the creator has used. For example - meta="og:title" - would show up as a big text. As another example og:img would show up as a thumbnail of the site.
