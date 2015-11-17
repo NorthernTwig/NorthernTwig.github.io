@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Verklighet i den virtuella världen"
+title:  "Rapport: Verklighet i den virtuella världen"
 date:   2015-05-20 16:13:02
 categories: jekyll update
 comments: true
 ---
 
 ##Kort sammanfattning av rapporten
-#Länk till projektet finns [här](https://goo.gl/MD9ssY).
+Länk till projektet finns [här](https://goo.gl/MD9ssY).
 
 
 Rapportens syfte är att ta reda på vad för faktorer som spelar in när man ska konstruera enrealistisk 3D bild. Eftersom tekniken inom just detta går allt framåt så blir också kraven större – och det är därför man i dagsläget behöver utforska mer kring detta ämne för att ta reda på vad som i just nu är det viktigaste att tänka på.
