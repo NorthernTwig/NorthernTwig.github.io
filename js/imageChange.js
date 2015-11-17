@@ -4,7 +4,6 @@ function randomImage() {
   setInterval(function() {
     i++;
     var find = document.querySelector("#bigBlue");
-    console.log(i);
 
     if (i === 1) {
       find.classList.add("redIng");
